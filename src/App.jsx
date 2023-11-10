@@ -11,8 +11,6 @@ function App() {
     <>
     <h1 className='mb-4'>Tailwind Test</h1>
     <Card username = "Abinash" btnText="Visit me"/>
-
-
     </>
   )
 }
